@@ -24,7 +24,7 @@ SESAR offers services to advance the management and sharing of samples in the Ea
 
 ## What is an IGSN?
 
-As part of our registration services, SESAR is an ‘Allocating Agent’ for the IGSN e.V., the implementation organization of the IGSN. IGSN stands for [International Geo Sample Number](http://igsn.org/). The IGSN is an alphanumeric code that uniquely identifies samples taken from our natural environment (for example: rock specimens, water samples, sediment cores), as well as related sampling features (sites, stations, stratigraphic sections, etc.).
+As part of our registration services, SESAR is an ‘Allocating Agent’ for the IGSN e.V., the implementation organization of the IGSN. IGSN stands for [International Generic Sample Number](http://igsn.org/). The IGSN is an alphanumeric code that uniquely identifies samples taken from our natural environment (for example: rock specimens, water samples, sediment cores), as well as related sampling features (sites, stations, stratigraphic sections, etc.).
 SESAR provides IGSN during the registration process, and maintains the metadata profile pages that IGSN ‘resolve’ to. In addition to the registration metadata required by the IGSN e.V., SESAR collects and maintains descriptive metadata unique to the SESAR community.
 Except in special cases*, IGSNs obtained from SESAR are 9 characters long. IGSNs obtained from Allocating Agents other than SESAR may have different syntax, but all are guaranteed to be globally unique via a central registry.
 
